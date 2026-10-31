@@ -4,7 +4,7 @@
 
 **Xinran Xiong · athebear**
 
-北航在读，方向是多模态与 Agent。目前的重点是 **Coding Agent / Agent Harness**：<br>读 harness 源码，在本地把它们跑起来，修上游的 bug。
+多模态与 Agent。目前的重点是 **Coding Agent / Agent Harness**：<br>读 harness 源码，在本地把它们跑起来，修上游的 bug。
 
 <a href="https://athebear.me"><img src="https://img.shields.io/badge/Blog-athebear.me-2A8BD8?style=flat-square" alt="Blog" /></a>&nbsp;
 <a href="https://athebear.me/notes/lcc-s01-agent-loop/"><img src="https://img.shields.io/badge/Harness_%E7%B2%BE%E8%AF%BB-17_%E7%AF%87-136CB3?style=flat-square" alt="Harness 精读 17 篇" /></a>&nbsp;
