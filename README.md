@@ -1,10 +1,22 @@
-## Xinran Xiong · athebear
+<div align="center">
 
-北航在读，方向是多模态与 Agent。目前的重点是 **Coding Agent / Agent Harness**：读 harness 源码，在本地把它们跑起来，修上游的 bug。
+<a href="https://athebear.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=2A8BD8&center=true&vCenter=true&width=640&lines=Reading+agent+harnesses+line+by+line;Running+them+for+real;Fixing+what+breaks+upstream" alt="Reading agent harnesses, running them for real, fixing what breaks upstream" /></a>
 
-关心的问题：模型调用与工具循环、权限与取消、上下文管理、会话状态与恢复。
+**Xinran Xiong · athebear**
 
-📝 博客与笔记：[athebear.me](https://athebear.me)
+北航在读，方向是多模态与 Agent。目前的重点是 **Coding Agent / Agent Harness**：<br>读 harness 源码，在本地把它们跑起来，修上游的 bug。
+
+<a href="https://athebear.me"><img src="https://img.shields.io/badge/Blog-athebear.me-2A8BD8?style=flat-square" alt="Blog" /></a>&nbsp;
+<a href="https://athebear.me/notes/lcc-s01-agent-loop/"><img src="https://img.shields.io/badge/Harness_%E7%B2%BE%E8%AF%BB-17_%E7%AF%87-136CB3?style=flat-square" alt="Harness 精读 17 篇" /></a>&nbsp;
+<a href="#合并到上游的-pr"><img src="https://img.shields.io/badge/%E4%B8%8A%E6%B8%B8%E5%90%88%E5%B9%B6_PR-7-2DA44E?style=flat-square" alt="上游合并 PR 7 个" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thebearcoding/Thebearcoding/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thebearcoding/Thebearcoding/output/github-snake.svg" />
+  <img alt="贪吃蛇吃掉贡献图的动画" src="https://raw.githubusercontent.com/Thebearcoding/Thebearcoding/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ### 合并到上游的 PR
 
@@ -29,10 +41,22 @@
 
 <sub>原文转载自 shareAI-lab/learn-claude-code；导读、真实运行记录和参考答案由 Claude Code 撰写，我用它系统地过一遍这些机制。</sub>
 
+### 最近的笔记
+
+<!-- BLOG-POST-LIST:START -->
+- [learn-claude-code s17：Goal Loop，没达标就别停](https://athebear.me/notes/lcc-s17-goal-loop/)
+- [learn-claude-code s16：Workflow Runtime，把固定流程写成能续跑的脚本](https://athebear.me/notes/lcc-s16-workflow-runtime/)
+- [learn-claude-code s15：Integrated Harness，十几种机制挂在同一个循环上](https://athebear.me/notes/lcc-s15-integrated-harness/)
+- [learn-claude-code s14：MCP Tools，工具不再写死在代码里](https://athebear.me/notes/lcc-s14-mcp-plugin/)
+- [learn-claude-code s13：Agent Teams，一个 Lead 带几个常驻队友](https://athebear.me/notes/lcc-s13-agent-teams/)
+<!-- BLOG-POST-LIST:END -->
+
 ### 正在做
 
 **自己的 coding agent harness**：参考 BaoCode 和 DeepSeek Harness 的设计，按「模型循环 → 工具协议 → 上下文 → 权限与取消 → 会话恢复」一块一块地实现。还在早期，做出能演示的版本后再公开。
 
 ### 日常
 
-Python · TypeScript · Go · Dart，开发时用 Claude Code、Codex、Cursor。
+<img src="https://skillicons.dev/icons?i=python,ts,go,flutter&theme=light" alt="Python, TypeScript, Go, Flutter/Dart" />
+
+开发时用 Claude Code、Codex、Cursor。
