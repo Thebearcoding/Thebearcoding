@@ -15,6 +15,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: https://athebear.me/rss.xml
+          feed_list: https://athebear.com/rss.xml
           max_post_count: 5
           commit_message: "Update recent notes"
