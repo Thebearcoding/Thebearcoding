@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://athebear.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=2A8BD8&center=true&vCenter=true&width=640&lines=Reading+agent+harnesses+line+by+line;Running+them+for+real;Contributing+to+open+source" alt="Reading agent harnesses, running them for real, contributing to open source" /></a>
+<a href="https://athebear.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=2A8BD8&center=true&vCenter=true&width=640&lines=Reading+agent+harnesses+line+by+line;Running+them+for+real;Contributing+to+open+source" alt="Reading agent harnesses, running them for real, contributing to open source" /></a>
 
-<a href="https://athebear.me"><img src="./assets/hero.svg" alt="Athebear：Agent 终端动画" width="100%" /></a>
+<a href="https://athebear.com"><img src="./assets/hero.svg" alt="Athebear：Agent 终端动画" width="100%" /></a>
 
 <div>&nbsp;</div>
 
-<a href="https://athebear.me"><img src="https://img.shields.io/badge/Blog-athebear.me-2A8BD8?style=flat-square" alt="Blog" /></a>&emsp;<a href="https://athebear.me/notes/lcc-s01-agent-loop/"><img src="https://img.shields.io/badge/Harness_%E7%B2%BE%E8%AF%BB-17_%E7%AF%87-136CB3?style=flat-square" alt="Harness 精读 17 篇" /></a>&emsp;<img src="https://komarev.com/ghpvc/?username=Thebearcoding&label=Views&color=2A8BD8&style=flat-square" alt="访问量" />
+<a href="https://athebear.com"><img src="https://img.shields.io/badge/Blog-athebear.com-2A8BD8?style=flat-square" alt="Blog" /></a>&emsp;<a href="https://athebear.com/notes/lcc-s01-agent-loop/"><img src="https://img.shields.io/badge/Harness_%E7%B2%BE%E8%AF%BB-17_%E7%AF%87-136CB3?style=flat-square" alt="Harness 精读 17 篇" /></a>&emsp;<img src="https://komarev.com/ghpvc/?username=Thebearcoding&label=Views&color=2A8BD8&style=flat-square" alt="访问量" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thebearcoding/Thebearcoding/output/github-snake-dark.svg" />
@@ -51,7 +51,7 @@
 - 多 Agent 时 Lead 答应用 worktree，实际没有创建
 - 三个审查维度各自报出同一个 SQL 注入，流程里没有去重
 
-👉 [从第一篇开始读](https://athebear.me/notes/lcc-s01-agent-loop/)
+👉 [从第一篇开始读](https://athebear.com/notes/lcc-s01-agent-loop/)
 
 <sub>原文转载自 shareAI-lab/learn-claude-code；导读、真实运行记录和参考答案由 Claude Code 撰写，我用它系统地过一遍这些机制。</sub>
 
