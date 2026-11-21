@@ -70,11 +70,11 @@
 ### 📃 最近的笔记
 
 <!-- BLOG-POST-LIST:START -->
-- [learn-claude-code s17：Goal Loop，没达标就别停](https://athebear.me/notes/lcc-s17-goal-loop/)
-- [learn-claude-code s16：Workflow Runtime，把固定流程写成能续跑的脚本](https://athebear.me/notes/lcc-s16-workflow-runtime/)
-- [learn-claude-code s15：Integrated Harness，十几种机制挂在同一个循环上](https://athebear.me/notes/lcc-s15-integrated-harness/)
-- [learn-claude-code s14：MCP Tools，工具不再写死在代码里](https://athebear.me/notes/lcc-s14-mcp-plugin/)
-- [learn-claude-code s13：Agent Teams，一个 Lead 带几个常驻队友](https://athebear.me/notes/lcc-s13-agent-teams/)
+- [learn-claude-code s17：Goal Loop，没达标就别停](https://athebear.com/notes/lcc-s17-goal-loop/)
+- [learn-claude-code s16：Workflow Runtime，把固定流程写成能续跑的脚本](https://athebear.com/notes/lcc-s16-workflow-runtime/)
+- [learn-claude-code s15：Integrated Harness，十几种机制挂在同一个循环上](https://athebear.com/notes/lcc-s15-integrated-harness/)
+- [learn-claude-code s14：MCP Tools，工具不再写死在代码里](https://athebear.com/notes/lcc-s14-mcp-plugin/)
+- [learn-claude-code s13：Agent Teams，一个 Lead 带几个常驻队友](https://athebear.com/notes/lcc-s13-agent-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr>
